@@ -38,7 +38,7 @@ I am a data scientist with a passion for solving complex problems using data. I 
 
 ### 📫 Contact Me  
 - Email: shirikov1998@mail.ru
-- Telegram: @ilyshka_s  
+- Telegram: [@ilyshka_s  ](https://t.me/ilyshka_s)
   
 
 <br/>  
