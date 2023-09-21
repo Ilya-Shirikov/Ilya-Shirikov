@@ -11,15 +11,15 @@ I am a data scientist with a passion for solving complex problems using data. I 
 
 ### 📚 Education  
 - 🔭Graduated from the MGUTU University. Razumovsky in the direction of electric power.
--📝 Professional retraining program at Yandex Practicum for Data Science  
+- 📝 Professional retraining program at Yandex Practicum for Data Science  
   
 
 
 
 ### 💼 Experience  
 - 👨‍💻 Analyzing data using statistical methods to identify patterns and trends
--👨‍💻Building predictive models using machine learning algorithms
--👨‍💻Creating data visualizations to communicate insights to stakeholders  
+- 👨‍💻Building predictive models using machine learning algorithms
+- 👨‍💻Creating data visualizations to communicate insights to stakeholders  
   
 
 
