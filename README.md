@@ -25,7 +25,7 @@ I am a data scientist with a passion for solving complex problems using data. I 
 
 
 ### 📈 Learning  
-- 🌱 I’m currently studying neural networks from the basics to the advanced level (CV, NLP)😆  
+- 🌱 I’m currently studying neural networks from the basics to the advanced level (CV, NLP)  
   
 
 
