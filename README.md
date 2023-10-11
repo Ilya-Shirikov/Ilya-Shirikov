@@ -10,8 +10,9 @@ I am a data scientist with a passion for solving complex problems using data. I 
 
 
 ### 📚 Education  
-- 🧑‍🎓Graduated from the MGUTU University. Razumovsky in the direction of electric power.
-- 📝 Professional retraining program at Yandex Practicum for Data Science  
+- 🧑‍🎓 Graduated from the MGUTU University. Razumovsky in the direction of electric power.
+- 📝 At the moment I am actively engaged with a mentor
+- 📝 In parallel, I am taking advanced training courses
   
 
 
